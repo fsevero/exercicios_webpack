@@ -1,2 +1,2 @@
-const logger = require('./logger')
-logger.info('Usando o padrão CommonJS!!!')
+// require('./duvida.cruel')
+// sem esse código, o arquivo não é carregado
